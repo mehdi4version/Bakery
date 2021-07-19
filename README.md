@@ -11,24 +11,24 @@ The main purpose to build a website for a local business in Salt Lake City is to
 
 The website should have all the lastest features and functionality. Some of theses features are given below: 
 
-* - Simple and user friendly design
-* - Resposive and accessible for all users
-* - Boosts the sale by encouraging the user to leave a  review of the product and the bakery 
-* - Reward and promotion incentives for the customers
-* - SEO for boosting the sale
-* - Online shopping and cart system
+* Simple and user friendly design
+* Resposive and accessible for all users
+* Boosts the sale by encouraging the user to leave a  review of the product and the bakery 
+* Reward and promotion incentives for the customers
+* SEO for boosting the sale
+* Online shopping and cart system
 
 ## Technologies Used 
 
 The following technologies (lastest version at the time of writing this documentation) can be used to built this project. Note as the website gets more complicated, new languages and technologies will be added to desire a completely function websites. 
 
-* - GitHub for version control
-* - HTML 
-* - CSS /CSS framework such as  bootstrap or tailwind CSS
-* - JS  ECMASCRIPT 6 
-* - React and Redux
-* - MangoDB
-* - Security for preventing hackers from accessing the users and client information/data
+* GitHub for version control
+* HTML 
+* CSS /CSS framework such as  bootstrap or tailwind CSS
+* JS  ECMASCRIPT 6 
+* React and Redux
+* MangoDB
+* Security for preventing hackers from accessing the users and client information/data
 
 ## Time line for the project 
 
