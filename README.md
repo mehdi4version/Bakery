@@ -43,13 +43,13 @@ Following is the suggested timeline for the project
 
 ## Resources 
 
-* - Udemy course by Brad [https://www.udemy.com/course/mern-ecommerce/]
-* - React official website [https://reactjs.org/tutorial/tutorial.html]
-* - Free code camp forum source for asking questions [freecodecamp.org/forum]
-* - Free code camp informaation security certification
-* - Google
-* - Twitter
-* - youtube
+* [Udemy course by Brad] (https://www.udemy.com/course/mern-ecommerce/)
+* [React official website] (https://reactjs.org/tutorial/tutorial.html)
+* [Free code camp forum] (https://www.freecodecamp.org/forum)
+* [Free code camp information security certification](https://www.freecodecamp.org)
+* Google (https://www.google.com)
+* Twitter(https://www.twitter.com)
+* Youtube(https://www.youtube.com)
 
 ## Room for Improvements 
 
