@@ -58,11 +58,11 @@ The project is at its rudimentary stage and feel free to make  changes in the de
 
 ## Final Thoughts/ Recommendations 
 
-* - Our goal is to copy as much of the code as possible. It is part of learning process. We will choice the easiest
+* Our goal is to copy as much of the code as possible. It is part of learning process. We will choice the easiest
 path possible. 
-* - Consistency is the key to this project 
-* - The final price of the website will be decided with consent of the both parties. Otherwise the offer to sale the project is not an option. 
-* - Both the creator of the website has equal rights and deserve equal credit for the project. 
+* Consistency is the key to this project 
+* The final price of the website will be decided with consent of the both parties. Otherwise the offer to sale the project is not an option. 
+* Both the creator of the website has equal rights and deserve equal credit for the project. 
 
 
 
