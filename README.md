@@ -1,5 +1,6 @@
 Kareem Bakery 
 =============
+
 This project is for creating a website for a local business in Salt Lake City. 
 
 ## Introduction 
@@ -7,6 +8,7 @@ This project is for creating a website for a local business in Salt Lake City.
 The main purpose to build a website for a local business in Salt Lake City is to increase the sale of the bakery and help it grow. It will help us to learn more about web development.This project can be used to create a protofolio for job purposes.
 
 ## Website Features 
+
 The website should have all the lastest features and functionality. Some of theses features are given below: 
 
 * - Simple and user friendly design
@@ -41,8 +43,8 @@ Following is the suggested timeline for the project
 
 ## Resources 
 
-* - Udemy course by Brad source [https://www.udemy.com/course/mern-ecommerce/]
-* - React official website source [https://reactjs.org/tutorial/tutorial.html]
+* - Udemy course by Brad [https://www.udemy.com/course/mern-ecommerce/]
+* - React official website [https://reactjs.org/tutorial/tutorial.html]
 * - Free code camp forum source for asking questions [freecodecamp.org/forum]
 * - Free code camp informaation security certification
 * - Google
