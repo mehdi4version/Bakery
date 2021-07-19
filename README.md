@@ -34,22 +34,22 @@ The following technologies (lastest version at the time of writing this document
 
 Following is the suggested timeline for the project
 
--[ ] Finalize ReadMe by the end of July 2021. 
+-[ ] Finalize ReadMe by the end of July 2021
 -[ ] Design the wireframe of the website and built it using HTML and CSS by the end of August 2021
 -[ ] Add features such as promotion coupon, reviews, and other sale enhancement promotions by the end of September
 -[ ] Built the cart using React/Redux to built the shopping card till November 2021
--[ ] Deploy the new site  in 15 of December 2021.
--[ ] Search Engine Optimization and Security 
+-[ ] Deploy the new site  in 15 of December 2021
+-[ ] Search Engine Optimization and Security
 
 ## Resources 
 
 * [Udemy course by Brad] (https://www.udemy.com/course/mern-ecommerce/)
 * [React official website] (https://reactjs.org/tutorial/tutorial.html)
 * [Free code camp forum] (https://www.freecodecamp.org/forum)
-* [Free code camp information security certification](https://www.freecodecamp.org)
+* [Free code camp information security certification] (https://www.freecodecamp.org)
 * Google (https://www.google.com)
-* Twitter(https://www.twitter.com)
-* Youtube(https://www.youtube.com)
+* Twitter (https://www.twitter.com)
+* Youtube (https://www.youtube.com)
 
 ## Room for Improvements 
 
