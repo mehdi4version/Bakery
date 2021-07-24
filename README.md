@@ -32,12 +32,11 @@ The following technologies (lastest version at the time of writing this document
 
 ## Design Theme
 
-The following websites has good design that are sample and at the sametime convey all the information needed to the customers. The design main theme of the design is to keep it simple without lossing essential information. 
+The following websites has good design that are sample and at the same time convey all the information needed to the customers. The main theme of the design is to keep it simple without lossing essential information. 
 
 [Hans & Franz](https://hansnfranz.com)  
 [Barkery Lorraine](https://www.bakerylorraine.com)  
 [Creswell Bakery](https://www.creswellbakery.com)
-
 
 ## Time line for the project 
 
@@ -52,13 +51,13 @@ Following is the suggested timeline for the project
 
 ## Resources 
 
-* [Udemy course by Brad] (https://www.udemy.com/course/mern-ecommerce/)
-* [React official website] (https://reactjs.org/tutorial/tutorial.html)
-* [Free code camp forum] (https://www.freecodecamp.org/forum)
-* [Free code camp information security certification] (https://www.freecodecamp.org)
-* Google (https://www.google.com)
-* Twitter (https://www.twitter.com)
-* Youtube (https://www.youtube.com)
+* [Udemy course by Brad](https://www.udemy.com/course/mern-ecommerce/)  
+* [React official website](https://reactjs.org/tutorial/tutorial.html)  
+* [Free code camp forum](https://www.freecodecamp.org/forum)  
+* [Free code camp information security certification](https://www.freecodecamp.org)  
+* [Google](https://www.google.com)    
+* [Twitter](https://www.twitter.com)    
+* [Youtube](https://www.youtube.com)  
 
 ## Room for Improvements 
 
