@@ -34,9 +34,9 @@ The following technologies (lastest version at the time of writing this document
 
 The following websites has good design that are sample and at the sametime convey all the information needed to the customers. The design main theme of the design is to keep it simple without lossing essential information. 
 
-* [Hans & Franz] (https://hansnfranz.com)
-* [Barkery Lorraine] (https://www.bakerylorraine.com)
-* [Creswell Bakery] (https://www.creswellbakery.com)
+[Hans & Franz](https://hansnfranz.com)  
+[Barkery Lorraine](https://www.bakerylorraine.com)  
+[Creswell Bakery](https://www.creswellbakery.com)
 
 
 ## Time line for the project 
