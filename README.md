@@ -20,7 +20,7 @@ The website should have all the lastest features and functionality. Some of thes
 
 ## Technologies Used 
 
-The following technologies (lastest version at the time of writing this documentation) can be used to built this project. Note as the website gets more complicated, new languages and technologies will be added to desire a completely function websites. 
+The following technologies (lastest version at the time of writing this documentation) can be used to built this project. Note as the website gets more complicated, new languages and technologies will be added to built a completely function websites. 
 
 * GitHub for version control
 * HTML 
@@ -29,6 +29,15 @@ The following technologies (lastest version at the time of writing this document
 * React and Redux
 * MangoDB
 * Security for preventing hackers from accessing the users and client information/data
+
+## Design Theme
+
+The following websites has good design that are sample and at the sametime convey all the information needed to the customers. The design main theme of the design is to keep it simple without lossing essential information. 
+
+* [Hans & Franz] (https://hansnfranz.com)
+* [Barkery Lorraine] (https://www.bakerylorraine.com)
+* [Creswell Bakery] (https://www.creswellbakery.com)
+
 
 ## Time line for the project 
 
